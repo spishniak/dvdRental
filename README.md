@@ -1,5 +1,5 @@
 ## Base setup
----
+--- start
 * first $ `npm init`
 * second $ `npm i eslint --save-dev`
 * third $ `npx eslint --init`
@@ -25,3 +25,4 @@
   * $ `code ..gitignore`
 
 * tenth `$ git init`
+---
