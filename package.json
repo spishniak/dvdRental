@@ -2,7 +2,7 @@
   "name": "dvdrental",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "npx ts-node-dev src/index.ts",
     "build": "npx tsc -p tsconfig.json",
